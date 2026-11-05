@@ -1,0 +1,30 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Resultados y registros de JMeter
+*.jtl
+*.log
+reporte*/
+report-*/
+backups/
+*.jmx.bak
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Configuración local de editores
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

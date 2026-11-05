@@ -1,0 +1,1 @@
+Sostuvo 200 solicitudes/s durante dos minutos, con P95 de 1 segundo y con 0.01% de errores.
